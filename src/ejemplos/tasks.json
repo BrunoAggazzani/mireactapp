@@ -1,0 +1,22 @@
+[
+{
+    "id": 0,
+    "titulo": "tarea uno",
+    "descripcion": "levantarse",
+    "hecho": true
+},
+
+{
+    "id": 1,
+    "titulo": "tarea dos",
+    "descripcion": "comer",
+    "hecho": false
+},
+
+{
+    "id": 2,
+    "titulo": "tarea tres",
+    "descripcion": "acostarse",
+    "hecho": false
+}
+]
